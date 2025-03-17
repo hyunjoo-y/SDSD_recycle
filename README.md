@@ -2,7 +2,8 @@
 자대학교 리빙랩 아이디어톤 대상 수상, 초기 개발 연계
 
 ## 필요성
-<img width="1173" alt="image" src="https://github.com/user-attachments/assets/310fa0ef-8799-4f6c-b083-3dad5b104bf8" />
+<img width="1149" alt="image" src="https://github.com/user-attachments/assets/c27330c9-fa2a-4805-92cd-de1170ee06d4" />
+
 
 ---
 
