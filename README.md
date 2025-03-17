@@ -17,7 +17,7 @@
 
 ✅ **분리 배출 방법 검색**
 
-✅ **\1일 퀴즈 및 포인트 적립**
+✅ **1일 퀴즈 및 포인트 적립**
 
 **추가 구현한다면**,
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/b8071006-94b5-4162-b4e8-56f2285bbd75" />
