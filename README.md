@@ -11,8 +11,11 @@
 <img width="467" alt="image" src="https://github.com/user-attachments/assets/0158a52d-a45b-4977-823b-11e5087e7cbd" />
 
 ✅ **회원가입/로그인**  
+
 ✅ **사용자 위치 기반** 분리배출 시간 알림
+
 ✅ **분리 배출 방법 검색**
+
 ✅ **1일 퀴즈 및 포인트 적립**
 
 추가적으로 추가 구현한다면,
