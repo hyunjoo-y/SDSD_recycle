@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/store"
+            android:title="스토어"/>
+        <item
+            android:id="@+id/comunity"
+            android:title="커뮤니티"/>
+        <item
+            android:id="@+id/event"
+            android:title="이벤트"/>
+        <item
+            android:id="@+id/qna"
+            android:title="문의하기"/>
+    </group>
+
+</menu>
