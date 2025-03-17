@@ -19,10 +19,11 @@
 
 ✅ **1일 퀴즈 및 포인트 적립**
 
-추가적으로 추가 구현한다면,
+**추가 구현한다면**,
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/b8071006-94b5-4162-b4e8-56f2285bbd75" />
 
-<img width="755" alt="image" src="https://github.com/user-attachments/assets/1468f41a-6e8f-4c6a-a5c3-08786ada32d9" />
+<img width="1139" alt="image" src="https://github.com/user-attachments/assets/be310862-3aa8-4d34-9786-f9f7dcd19ba9" />
+
 
 ---
 
